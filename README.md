@@ -1,9 +1,8 @@
 === GSheetConnector for WooCommerce – Send your Orders and Products to Google Sheet in Real-Time ===
 Contributors: westerndeal, abdullah17, gsheetconnector
 Author URI: https://www.gsheetconnector.com/
-Tags:  woocommerce, woocommerce addon, woocommerce google sheets, sync woocommerce with google sheets, woocommerce orders sync to google sheets
-Docs: https://www.gsheetconnector.com/docs/woocommerce-gsheetconnector
-Tested up to: 6.8
+Tags: woocommerce, google sheets, woocommerce export, order export, integration
+Tested up to: 6.9
 Requires at least: 5.3
 Requires PHP: 7.4
 Requires Plugins: woocommerce
@@ -29,12 +28,7 @@ This plugin is perfect for store owners, marketing teams, and accounting departm
 ➜ Simple and secure Google Account authentication.
 ➜ Debug logs available for quick troubleshooting.
 
-### 🔗 Useful Links
-
-- **[Documentation](https://www.gsheetconnector.com/docs/woocommerce-gsheetconnector/installation-process-free-version)**
-- **[Support](https://www.gsheetconnector.com/support)**
-- **[Demo](https://woogsheets.gsheetconnector.com/)**
-- **[Premium Version](https://www.gsheetconnector.com/woocommerce-google-sheet-connector-pro)**
+- **[Documentation](https://www.gsheetconnector.com/docs/woocommerce-gsheetconnector/installation-process-free-version) | [Support](https://www.gsheetconnector.com/support) | [Demo](https://woogsheets.gsheetconnector.com/) | [WooCommerce Google Sheet Connector PRO](https://www.gsheetconnector.com/woocommerce-google-sheet-connector-pro)**
 
 ### 🧪 Check Live Demo
 
@@ -75,6 +69,8 @@ This plugin is perfect for store owners, marketing teams, and accounting departm
 ➜ Sync Custom Fields and Meta Fields (including third-party plugin data).
 ➜ Choose from three different integration methods based on organizational needs.
 ➜ Create multiple feeds and send data to different Google Sheets as required.
+➜ Create Individual feeds with individual sheets for Orders, Products, Products Variations, Users & Coupons
+➜ 2-way Sync – Send data from Google Sheets to your WooCommerce store via the connected sheet.
 ➜ Easy tracking and monitoring through advanced error logs.
 ➜ Freeze headers, add header color, and apply odd/even row background colors in Google Sheets.
 ➜ Manage data row structure order-wise or product-wise.
@@ -104,7 +100,6 @@ This plugin is perfect for store owners, marketing teams, and accounting departm
 [Avada Forms Google Sheet Connector](https://www.gsheetconnector.com/avada-forms-google-sheet-connector-pro?utm_source=wordpress.org&utm_medium=referral&utm_campaign=WPGSC&utm_content=plugin+repos+description)
 [DIVI Forms Google Sheet Connector](https://www.gsheetconnector.com/divi-forms-db-google-sheet-connector-pro?utm_source=wordpress.org&utm_medium=referral&utm_campaign=WPGSC&utm_content=plugin+repos+description)
 [GSheetConnector For Core](https://www.gsheetconnector.com/gsheetconnector-for-core?utm_source=wordpress.org&utm_medium=referral&utm_campaign=WPGSC&utm_content=plugin+repos+description)
-
 
 
 == Installation ==
